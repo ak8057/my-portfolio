@@ -137,8 +137,8 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-            I&apos;m currently open to remote opportunities and collaborations.
-            Let&apos;s build something amazing together!
+            I am currently open to remote opportunities and collaborations.
+            Lets build something amazing together!
           </p>
         </motion.div>
       </div>
