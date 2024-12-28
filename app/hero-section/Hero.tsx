@@ -46,7 +46,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/victor-williams-chukwudi/"
+            href="https://www.linkedin.com/in/abhaykr02"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
@@ -54,11 +54,11 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              LINKDIN
+              LINKEDIN
             </motion.p>
           </Link>
           <Link
-            href="https://twitter.com/victorwill__"
+            href="https://x.com/abhayyyKr"
             target="_blank"
             aria-label="View Twitter Profile"
           >
@@ -70,15 +70,15 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://contra.com/victorwilliams"
+            href="https://leetcode.com/u/abhayyk/"
             target="_blank"
-            aria-label="View Contra Profile"
+            aria-label="View Leetcode Profile"
           >
             <motion.p
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              CO
+              LEETCODE
             </motion.p>
           </Link>
         </div>
@@ -118,16 +118,17 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Frontend Engineer and Web Designer, prev at{" "}
-            <Link
+            Frontend Engineer and Web Designer, I specialize in creating
+            interactive and visually appealing user experiences.{" "}
+            {/* <Link
               href="https://www.korahq.com/"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
               aria-label="Kora Website"
             >
               Kora,
-            </Link>{" "}
-            currently available for work.
+            </Link>{" "} */}
+            Currently available for work.
           </p>
         </motion.div>
 
@@ -136,8 +137,8 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-            Focused on interfaces and experiences, working remotely from Lagos,
-            Nigeria.
+            I'm currently open to remote opportunities and collaborations.
+            Let's build something amazing together!
           </p>
         </motion.div>
       </div>

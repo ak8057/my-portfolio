@@ -37,3 +37,21 @@ body {
 body {
   overflow-y: hidden;
 }
+
+
+/* Customize the scrollbar */
+::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+  height: 8px; /* Height of the scrollbar for horizontal scroll */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #4a90e2; /* Color of the scrollbar thumb */
+  border-radius: 10px; /* Roundness of the scrollbar thumb */
+  border: 2px solid transparent; /* Add padding between the thumb and track */
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a; /* Color of the scrollbar track */
+  border-radius: 10px;
+}
