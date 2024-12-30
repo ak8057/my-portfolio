@@ -13,7 +13,7 @@
   export const metadata: Metadata = {
     title: "Abhay Kumar — Web developer",
     description:
-      "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+      "Web Developer and Web Designer, Focused on interfaces and experiences.",
     generator: "Next.js",
     applicationName: "Abhay Kumar",
     keywords: [
@@ -39,12 +39,12 @@
     openGraph: {
       title: "Abhay Kumar — Web developer",
       description:
-        "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+        "Web Developer and Web Designer, Focused on interfaces and experiences.",
       url: "https://abhaykumar.vercel.app/",
       siteName: "abhaykumar.vercel.app",
       images: [
         {
-          url: "https://github.com/user-attachments/assets/605fa165-b8a3-4e79-9efc-a84dc18020fc",
+          url: "https://raw.githubusercontent.com/ak8057/my-portfolio/refs/heads/main/public/image.png",
           width: 1200,
           height: 630,
           alt: "Abhay Kumar — Web Developer",
@@ -57,11 +57,11 @@
       card: "summary_large_image",
       title: "Victor Williams — Frontend Engineer",
       description:
-        "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-      creator: "victorwill__",
+        "Web Developer and Web Designer, Focused on interfaces and experiences.",
+      creator: "abhaykumar__",
       creatorId: "1243720976552144897",
       images: [
-        "https://github.com/user-attachments/assets/605fa165-b8a3-4e79-9efc-a84dc18020fc",
+        "https://raw.githubusercontent.com/ak8057/my-portfolio/refs/heads/main/public/image.png",
       ],
     },
     robots: {
