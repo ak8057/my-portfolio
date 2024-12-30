@@ -40,14 +40,14 @@ export const metadata: Metadata = {
     title: "Abhay Kumar — Web developer",
     description:
       "Frontend Engineer and Web Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+    url: "https://abhaykumar.vercel.app/",
+    siteName: "abhaykumar.vercel.app",
     images: [
       {
-        url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+        url: "https://github.com/user-attachments/assets/605fa165-b8a3-4e79-9efc-a84dc18020fc",
         width: 1200,
         height: 630,
-        alt: "Victor Williams — Frontend Engineer",
+        alt: "Abhay Kumar — Web Developer",
       },
     ],
     locale: "en-US",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     creator: "victorwill__",
     creatorId: "1243720976552144897",
     images: [
-      "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
+      "https://github.com/user-attachments/assets/605fa165-b8a3-4e79-9efc-a84dc18020fc",
     ],
   },
   robots: {
