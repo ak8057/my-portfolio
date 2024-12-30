@@ -14,6 +14,9 @@ I created this website to showcase my work. I’m always striving to create some
 
 ![App Screenshot](https://user-images.githubusercontent.com/84178696/228679118-47e63775-0635-42b2-8838-a80644ef612b.png)
 
+![Screenshot 2024-12-30 205403](https://github.com/user-attachments/assets/605fa165-b8a3-4e79-9efc-a84dc18020fc)
+
+
 ## Run Locally
 
 Clone the project
