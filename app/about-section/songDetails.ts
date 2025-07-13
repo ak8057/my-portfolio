@@ -45,7 +45,7 @@ export const songs = [
   {
     title: "Floods",
     artist: "Lucky Daye",
-    image: require(".//../../public/songs/7.JPG"),
+    image: require(".//../../public/songs/7.jpeg"),
     link: "https://open.spotify.com/track/4GBjdj1z74h8RVr1Us6YFc",
   },
   {
