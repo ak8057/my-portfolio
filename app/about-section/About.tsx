@@ -63,7 +63,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "React.js, Next.js, Node.js, Express.js, Tailwind CSS, MongoDB, MySQL, GitHub, Figma, Google Cloud, Vite, HTML5."
+                  "React.js, Next.js, Node.js, Express.js, Tailwind CSS,Docker, MongoDB, MySQL, GitHub, Figma, Google Cloud, Vite, HTML5."
                 }
               />
             </div>
