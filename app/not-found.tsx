@@ -6,7 +6,8 @@ const NotFound = () => {
   return (
     <div className="flex h-[100vh] flex-col items-center justify-center gap-5 bg-[#0E1016] text-[#e4ded7]">
       <p className="text-[25px] uppercase sm:text-[30px] md:text-[35px] lg:text-[40px]">
-        Lost in code? Don't worry, even the best explorers take a wrong turn.
+        Lost in code? Don&apos;t worry, even the best explorers take a wrong
+        turn.
       </p>
       <Image
         src="/notFound.png"
