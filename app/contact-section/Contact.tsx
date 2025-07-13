@@ -82,7 +82,7 @@ const Contact = () => {
               aria-label="View GitHub Profile"
             >
               <AnimatedTitle
-                text={"GITHUB"}
+                text={"GH"}
                 className={
                   "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
@@ -96,7 +96,7 @@ const Contact = () => {
               aria-label="View LinkedIn Profile"
             >
               <AnimatedTitle
-                text={"LINKEDIN"}
+                text={"LI"}
                 className={
                   "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
@@ -110,7 +110,7 @@ const Contact = () => {
               aria-label="View Twitter Profile"
             >
               <AnimatedTitle
-                text={"TWITTER"}
+                text={"X"}
                 className={
                   "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
@@ -124,7 +124,7 @@ const Contact = () => {
               aria-label="View Instagram Profile"
             >
               <AnimatedTitle
-                text={"INSTAGRAM"}
+                text={"IG"}
                 className={
                   "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
@@ -138,7 +138,7 @@ const Contact = () => {
               aria-label="View Hashnode Profile"
             >
               <AnimatedTitle
-                text={"LEETCODE"}
+                text={"LC"}
                 className={
                   "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
