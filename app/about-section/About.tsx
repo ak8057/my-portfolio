@@ -82,7 +82,7 @@ const About = () => {
                 }
               />
             </div>
-            {/* <div className="flex flex-col gap-3">
+            <div className="flex flex-col gap-3">
               <AnimatedTitle
                 text={"Design Tools"}
                 className={
@@ -93,10 +93,10 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Figma, Blender"
+                  "Figma, Canva"
                 }
               />
-            </div> */}
+            </div>
           </div>
         </div>
         <div className="mt-10 flex flex-col md:-mt-0 lg:mt-28">

@@ -9,6 +9,7 @@ const NotFound = () => {
       <Image
         src="https://user-images.githubusercontent.com/84178696/228884970-66a9687c-b364-48e4-91ca-05332dadbba9.png"
         alt="Funny Meme"
+        
         width={858}
         height={483}
         className="w-[90%] sm:w-[80%] md:w-[70%] lg:w-[60%]"

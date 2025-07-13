@@ -55,7 +55,7 @@
     },
     twitter: {
       card: "summary_large_image",
-      title: "Victor Williams — Frontend Engineer",
+      title: "Abhay Kumar — Web developer",
       description:
         "Web Developer and Web Designer, Focused on interfaces and experiences.",
       creator: "abhaykumar__",

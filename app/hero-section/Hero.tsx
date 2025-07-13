@@ -19,15 +19,16 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://cal.com/victorwilliams/30min"
+            href="https://drive.google.com/file/d/19vw-gTBvWM-q98rviR0QoiUedl04Ij-l/view?usp=sharing"
             target="_blank"
-            aria-label="BOOK A CALL"
+            aria-label="Open my resume"
           >
             <motion.button
-              className="hidden rounded-md border-2 border-[#e4ded7] py-2 px-4 text-[14px] font-semibold text-[#e4ded7] sm:block  md:text-[16px] lg:block"
+              title="PDF · 1 Page"
+              className="hidden rounded-md border-2 border-[#e4ded7] py-2 px-4 text-[14px] font-semibold text-[#e4ded7] transition-all duration-75 hover:scale-150 hover:bg-[#e4ded7] hover:text-[#0E1016] sm:block  md:text-[16px] lg:block"
               variants={bodyAnimation}
             >
-              BOOK A CALL
+              RESUME
             </motion.button>
           </Link>
         </div>
@@ -39,10 +40,11 @@ const Hero = () => {
             aria-label="View GitHub Profile"
           >
             <motion.p
-              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              title="GitHub Profile"
+              className="text-[16px] font-bold text-[#e4ded7] transition-all duration-75 hover:scale-150   md:text-[16px]"
               variants={bodyAnimation}
             >
-              GITHUB
+              GH
             </motion.p>
           </Link>
           <Link
@@ -51,10 +53,11 @@ const Hero = () => {
             aria-label="View LinkedIn Profile"
           >
             <motion.p
-              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              title="LinkedIn Profile"
+              className="text-[16px] font-bold text-[#e4ded7] transition-all duration-75 hover:scale-150 md:text-[16px]"
               variants={bodyAnimation}
             >
-              LINKEDIN
+              LI
             </motion.p>
           </Link>
           <Link
@@ -63,10 +66,11 @@ const Hero = () => {
             aria-label="View Twitter Profile"
           >
             <motion.p
-              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              title="Twitter Profile"
+              className="text-[16px] font-bold text-[#e4ded7] transition-all duration-75 hover:scale-150 md:text-[16px]"
               variants={bodyAnimation}
             >
-              TWITTER
+              TW
             </motion.p>
           </Link>
           <Link
@@ -75,10 +79,11 @@ const Hero = () => {
             aria-label="View Leetcode Profile"
           >
             <motion.p
-              className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
+              title="Leetcode Profile"
+              className="text-[16px] font-bold text-[#e4ded7] transition-all duration-75 hover:scale-150 md:text-[16px]"
               variants={bodyAnimation}
             >
-              LEETCODE
+              LC
             </motion.p>
           </Link>
         </div>
@@ -121,12 +126,12 @@ const Hero = () => {
             Frontend Engineer and Web Designer, I specialize in creating
             interactive and visually appealing user experiences.{" "}
             {/* <Link
-              href="https://www.korahq.com/"
+              href=" "
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
-              aria-label="Kora Website"
+              aria-label="temp website"
             >
-              Kora,
+              temp
             </Link>{" "} */}
             Currently available for work.
           </p>
@@ -137,8 +142,8 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-            I am currently open to remote opportunities and collaborations.
-            Lets build something amazing together!
+            I am currently open to remote opportunities and collaborations. Lets
+            build something amazing together!
           </p>
         </motion.div>
       </div>
